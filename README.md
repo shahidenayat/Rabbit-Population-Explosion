@@ -65,3 +65,79 @@
 - user stories too big, a lot of overlaps
 - not enough testing
 - memory limitations
+
+
+## Sprint 2 (Wednesday, 28.10. all day)
+### Work Done
+- solved Concurrency issues by using different methods handling large amounts of objects
+- added user input for report display
+- writing report to both the console and a txt file
+- handled input validation and output display
+- added extra layers of abstraction to overall code
+- added tests for different user cases
+- using threading to code
+- packaged code
+
+### Successes
+- SOLID principles adhered to
+- tests for different user stories 
+- accurate information for certain test cases
+- pre-working report printed in console
+- no merge conflicts 
+- successful demo
+- better communication
+- better job dividing the work
+
+### Challenges
+- project freezing on certain test cases (need better memory management)
+- testing still incomplete
+- GUI not added yet
+- refactoring not completed yet
+
+### Future Work
+- begin working on presentation
+- begin working on GUI
+- completion of code refactoring
+- completion of Test cases
+- handle possible code crashing or code freezing statements
+
+### Retrospective
+- start: working on GUI and third set of requirements
+- more: testing and improving memory management
+- keep: raising your hand when you want to speak
+- less: big merges
+- stop: staying overtime
+
+## Sprint 3 (Thursday, 29.10. all day)
+### Work Done
+- improved memory management
+- more tests written
+- storing reports in a JSON file
+- implemented most of the new requirements
+- GUI implemented
+- presentation outline
+
+### Successes
+- program can hypothetically run for infinitly long
+- handling report in 3 different ways (console, txt, json)
+- large test coverage
+- working GUI
+- outlined the presentation and divided slides
+
+### Challenges
+- haven't allowed for user to change constants yet (maturity/death age)
+- `long` is sometimes not big enough (numbers can get too big for large periods of time)
+- some struggles with merging
+
+### Future Work
+- allow for change in constants
+- finish the presentation
+- refactor the code (deep cleaning)
+- calcualte code coverage
+
+### Retrospective
+- start: test driven development in future
+- more: communicating well (jumping in different calls and keeping each other up to date)
+- keep: working in smaller groups (and smaller groups within those groups)
+- less: big merges
+- stop: staying late (past 5 o'clock)

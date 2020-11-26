@@ -33,3 +33,6 @@ out/
 *.iml
 *.ipr
 *.iws
+resources/report.txt
+resources/report.json
+resources/log.txt
